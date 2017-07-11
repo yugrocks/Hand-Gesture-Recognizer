@@ -1,2 +1,4 @@
 # Hand-Gesture-Recognizer
-A python implementation of a Convolutional Neural Net that recognizes four hand gestures, namely- peace, punch, stop and thumbs_up.
+A python implementation of a Convolutional Neural Net that recognizes four hand gestures, namely- peace, punch, stop and thumbs_up.    
+
+![alt tag](https://raw.githubusercontent.com/yugrocks/Hand-Gesture-Recognizer/master/Demo2.gif)
