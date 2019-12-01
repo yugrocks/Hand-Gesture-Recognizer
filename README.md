@@ -6,7 +6,6 @@ Requirements: Python 3.5 ,Keras 2.0.2 , Tensorflow 1.2.1 , OpenCV 3.2, numpy 1.1
 
 ## Demo:
 
-![alt tag](https://raw.githubusercontent.com/yugrocks/Hand-Gesture-Recognizer/master/Demo2.gif)  
 
 ### Usage:   
 
